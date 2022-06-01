@@ -5,8 +5,8 @@
 
 <br>
 
-<p align="center"> <strong>  Aplicativo para análise de perfil de investidor </strong> 
-  Quando uma pessoa deseja realizar investimentos por intermédio de um banco ou uma corretora, é comum que 
+<p align="center"> Um <strong>  Aplicativo para análisar o perfil de investidor </strong> de alguém,
+  quando uma pessoa deseja realizar investimentos por intermédio de um banco ou uma corretora, é comum que 
   ela tenha que preencher um questionário para avaliar o seu perfil de investidor, de modo que ela possa ser 
   orientada para investimentos mais adequados ao seu momento de vida, patrimônio e propensão/tolerância ao risco.</p>
 
