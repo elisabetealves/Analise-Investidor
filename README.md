@@ -19,11 +19,11 @@
 
 <p align="center">
      <img src="./image/img1.png"  width="200px">
-     <img src="./image/img2.png" width="200px">
-     <img src="./image/img3.png" width="200px">
-     <img src="./image/img4.png" width="200px">
-     <img src="./image/img5.png" width="200px">
-     <img src="./image/img6.png" width="200px">
+     <img src="./image/img2 .png" width="200px">
+     <img src="./image/img3 .png" width="200px">
+     <img src="./image/img4 .png" width="200px">
+     <img src="./image/img5 .png" width="200px">
+     <img src="./image/img6 .png" width="200px">
 </p>
 
 <h1>
