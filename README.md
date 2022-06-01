@@ -46,11 +46,11 @@
 
 O seu app deve ter no mínimo 3 Activities:
                                                  
--Activity que controla a tela inicial, onde há uma explicação da função do app, um campo de texto para o usuário inserir o seu nome e um botão para iniciar o teste.
+- Activity que controla a tela inicial, onde há uma explicação da função do app, um campo de texto para o usuário inserir o seu nome e um botão para iniciar o teste.
                                                  
--Activity que apresenta as perguntas do formulário de análise de perfil de investidor, seguindo a metodologia do Banco Paulista, conforme o arquivo presente no link acima.
+- Activity que apresenta as perguntas do formulário de análise de perfil de investidor, seguindo a metodologia do Banco Paulista, conforme o arquivo presente no link acima.
                                                  
--Activity de resultado, que exibe o nome do usuário e o seu perfil de investidor.
+- Activity de resultado, que exibe o nome do usuário e o seu perfil de investidor.
 
 
 <h1>
