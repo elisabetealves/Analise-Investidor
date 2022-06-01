@@ -39,7 +39,8 @@
  
 </div>
 
-<br>
+<h1>
+    <br>
     <p style="color: #e84393; font-weight: bold;">⚙️ Requisitos</p>
 </h1>
 
